@@ -1,0 +1,15 @@
+.detailsWrap {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: space-between;
+}
+
+.btnWrap {
+  display: flex;
+  align-items: center;
+}
+
+.deleteBtn {
+  height: 20px;
+} 

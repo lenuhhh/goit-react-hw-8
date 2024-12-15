@@ -1,0 +1,21 @@
+.contactWrap {
+  margin-top: 20px;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+
+  width: 220px;
+  height: 80px;
+  padding: 10px;
+
+  border: 1px solid;
+  border-radius: 7px;
+} 
